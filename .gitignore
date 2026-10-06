@@ -39,3 +39,12 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+.DS_Store
+.expo/
+node_modules/
+
+*.mov
+.DS_Store
+.expo/
+node_modules/

@@ -44,7 +44,6 @@ yarn-error.*
 .expo/
 node_modules/
 
-*.mov
 .DS_Store
 .expo/
 node_modules/
